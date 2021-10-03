@@ -90,7 +90,7 @@ const unSeenVideos = (videos) => {
       <RichText
         content={richtext.paragr2.raw}
         renderers={{
-        p: ({ children }) => <div className="text-green-700 2 my-3 mx-16 text-md">{children}</div>,
+        p: ({ children }) => <div className="text-green-700 my-3 mx-16 text-md">{children}</div>,
         }}
       />
         <div><p>Welcome <span>{account.username}</span></p></div>

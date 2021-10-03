@@ -4,10 +4,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  textIndent: {
-    '1': '0.25rem',
-    '2': '0.5rem',
-  },
   variants: {
     extend: {},
   },
